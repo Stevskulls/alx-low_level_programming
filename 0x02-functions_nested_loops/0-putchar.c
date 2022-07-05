@@ -3,14 +3,12 @@
 
 /**
  * main - Entry begins
- * A program that print _putchar
- * a newline(\n) follows
- * Return: return 0 as result
+ * Return: nothing, return void
  */
 
 int main(void)
 {
-_putchar('-');
+_putchar('_');
 _putchar('p');
 _putchar('u');
 _putchar('t');
